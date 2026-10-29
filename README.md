@@ -1,5 +1,5 @@
 
-# Hi, I'm Khushi Sanwal 👋
+# Hi, I'm Khushi Sanwal 
 
 ### Aspiring Data Analyst | SQL | Python | Power BI
 
@@ -12,7 +12,7 @@ I'm building my skills in data analytics and learning to turn raw data into mean
 - **Excel:** Data cleaning and analysis
 
 ## 📚 Currently Learning
-- Advanced SQL
+- SQL and JOINs
 - Python for Data Analysis
 - Power BI and DAX
 - Exploratory Data Analysis
@@ -28,7 +28,7 @@ Projects will be added here as I complete and document them.
 
 
 ## 🤝 Connect With Me
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/khushisanwal)
+- LinkedIn: (www.linkedin.com/in/khushisanwal)
 
 
 <!--
